@@ -10,6 +10,3 @@ I am **Anagh Kanungo** and my pronouns are He/Him.
 - 🎸 I love to play the guitar, and listen to music.
 - 🔑 I love participating in CS events such as hackathons, and workshops!
 - 🗽 I'm currently studying in New York City.
-
-
-
