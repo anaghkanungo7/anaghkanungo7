@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-I am **Anagh Kanungo** and my pronouns are He/Him. 
+Welcome to my GitHub repository. I'm **Anagh Kanungo**, an avid CS and finance enthusiast. 
 
-- 🎓 I'm a senior at NYU's Tandon School of Engineering
-- 💻 I'm majoring in Computer Science and minoring in Finance
+- 🎓 I'm a graduate from New York University.
+- 💻 I majored in Computer Science and minored in Finance.
 - 🎸 I love to play and listen to music
-- 🔑 I love participating in CS events such as hackathons and workshops
-- 🗽 I'm currently studying in New York City
-- 🇮🇳 I am from India
-
+- 🇮🇳 I'm from India
+- 📈 I'm interested in all things at the intersection of technology, finance and entrepreneurship.
 
 ### Stats
 
