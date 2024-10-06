@@ -8,11 +8,6 @@ Welcome to my GitHub repository. I'm **Anagh Kanungo**, an avid CS and finance e
 - 🇮🇳 I'm from India
 - 📈 I'm interested in all things at the intersection of technology, finance and entrepreneurship.
 
-### My Bets
-
-[ClimbContent - Wordpress AI Content Generator](https://climbcontent.com)
-
-
 ### Stats
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
